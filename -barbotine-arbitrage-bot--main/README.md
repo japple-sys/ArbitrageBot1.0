@@ -42,7 +42,7 @@ com/nelsorex)
 1. Clone the repository
 
 ```sh
-git clone https://github.com/Taiki-ops/barbotine-arbitrage-bot # you can also download the zip file
+git clone https://github.com/japple-sys/barbotine-arbitrage-bot # you can also download the zip file
 ```
 
 2. Go to the repository you just cloned
